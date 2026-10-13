@@ -2,3 +2,8 @@ pandas
 scikit-learn
 matplotlib
 joblib
+pypdf
+sentence-transformers
+chromadb
+groq
+python-dotenv
